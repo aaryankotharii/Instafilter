@@ -14,6 +14,7 @@
 		5B97F7482437312A00ACF83D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B97F7472437312A00ACF83D /* Preview Assets.xcassets */; };
 		5B97F74B2437312A00ACF83D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B97F7492437312A00ACF83D /* LaunchScreen.storyboard */; };
 		5B97F75324377EEB00ACF83D /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B97F75224377EEB00ACF83D /* ImagePicker.swift */; };
+		5B97F7552437A62A00ACF83D /* imagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B97F7542437A62A00ACF83D /* imagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		5B97F74A2437312A00ACF83D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5B97F74C2437312A00ACF83D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5B97F75224377EEB00ACF83D /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		5B97F7542437A62A00ACF83D /* imagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				5B97F7492437312A00ACF83D /* LaunchScreen.storyboard */,
 				5B97F74C2437312A00ACF83D /* Info.plist */,
 				5B97F7462437312A00ACF83D /* Preview Content */,
+				5B97F7542437A62A00ACF83D /* imagePicker.swift */,
 			);
 			path = Instafilter;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				5B97F73F2437312700ACF83D /* AppDelegate.swift in Sources */,
 				5B97F75324377EEB00ACF83D /* ImagePicker.swift in Sources */,
+				5B97F7552437A62A00ACF83D /* imagePicker.swift in Sources */,
 				5B97F7412437312700ACF83D /* SceneDelegate.swift in Sources */,
 				5B97F7432437312700ACF83D /* ContentView.swift in Sources */,
 			);
